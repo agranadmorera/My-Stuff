@@ -1,2 +1,2 @@
 Hello!
-This is a codecademy test
+This folder is made up of practices and related stuff
